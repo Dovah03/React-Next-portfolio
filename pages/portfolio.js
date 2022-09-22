@@ -1,7 +1,7 @@
 import { Container, Box, Heading, SimpleGrid, Divider } from "@chakra-ui/layout";
 import Section from "../components/section";
 import { WorkGridItem } from "../components/grid-items";
-import thumbnailCrudapp from "images/projects/crudapp.png"
+import thumbnailCrudapp from "../public/images/projects/crudapp.png"
 import thumbnailIsoqualtech from "../public/images/projects/isoqualtechapp.png";
 import thumbnailAI from "../public/images/projects/AI-assistant.png";
 import thumbnailPortfolio from "../public/images/projects/portfolio.png";
