@@ -33,8 +33,8 @@ const project = () => (
                     <span>Vite.js, Github pages</span>
                 </ListItem>
             </List>
-            <ProjectImage src="/images/projects/portfolio_01.png" alt="Portfolio website" />
-            <ProjectImage src="/images/projects/portfolio_02.png" alt="Portfolio website" />
+            <ProjectImage src="/React-Next-portfolio/images/projects/portfolio_01.png" alt="Portfolio website" />
+            <ProjectImage src="/React-Next-portfolio/images/projects/portfolio_02.png" alt="Portfolio website" />
         </Container>
     </Transition>
 )
