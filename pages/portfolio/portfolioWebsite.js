@@ -16,8 +16,14 @@ const project = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Website</Meta>
-                    <Link href = "https://dovah03.github.io/">
-                    https://dovah03.github.io/ <ExternalLinkIcon mx="2px" />
+                    <Link href = "https://dovah03.github.io/threejs_portfolio">
+                    https://dovah03.github.io/threejs_portfolio <ExternalLinkIcon mx="2px" />
+                    </Link>
+                </ListItem>
+                <ListItem>
+                    <Meta>Source Code</Meta>
+                    <Link href = "https://github.com/Dovah03/threejs_portfolio">
+                    https://github.com/Dovah03/threejs_portfolio <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>
                 <ListItem>

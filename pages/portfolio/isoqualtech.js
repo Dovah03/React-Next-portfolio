@@ -23,6 +23,18 @@ const project = () => (
                     </Link>
                 </ListItem>
                 <ListItem>
+                    <Meta>Front-End Source Code</Meta>
+                    <Link href = "https://github.com/Dovah03/Angular-Crud-App">
+                    https://github.com/Dovah03/Angular-Crud-App <ExternalLinkIcon mx="2px" />
+                    </Link>
+                </ListItem>
+                <ListItem>
+                    <Meta>Back-End Source Code</Meta>
+                    <Link href = "https://github.com/Dovah03/palteforme-demo-api">
+                    https://github.com/Dovah03/palteforme-demo-api <ExternalLinkIcon mx="2px" />
+                    </Link>
+                </ListItem>
+                <ListItem>
                     <Meta>Platform</Meta>
                     <span>Windows/macOS/Linux/IOS/Android</span>
                 </ListItem>
