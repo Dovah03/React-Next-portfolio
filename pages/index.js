@@ -32,7 +32,7 @@ const Page = () => {
   // Function will execute on click of button
   const onButtonClick = () => {
     // using Java Script method to get PDF file
-    fetch('../public/images/Mehdi_CV_En.pdf').then(response => {
+    fetch('/React-Next-portfolio/images/Mehdi_CV_En.pdf').then(response => {
         response.blob().then(blob => {
             // Creating new object of PDF file
             const fileURL = window.URL.createObjectURL(blob);

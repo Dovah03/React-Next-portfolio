@@ -21,7 +21,7 @@ const LogoBox = styled.span`
     }
 `
 const Logo = () => {
-    const LogoImg = `/images/Logo${useColorModeValue('','-dark')}.png`
+    const LogoImg = `/React-Next-portfolio/images/Logo${useColorModeValue('','-dark')}.png`
     return (
         <Link href="/">
             <a>
