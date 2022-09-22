@@ -35,8 +35,8 @@ const project = () => (
                     <span>Heroku, PostgreSQL, MongoDB Atlas</span>
                 </ListItem>
             </List>
-            <ProjectImage src="images/projects/isoqualtechapp_02.png" alt="Spring-Angular-App" />
-            <ProjectImage src="images/projects/isoqualtechapp_01.png" alt="Spring-Angular-App" />
+            <ProjectImage src="/React-Next-portfolio/images/projects/isoqualtechapp_02.png" alt="Spring-Angular-App" />
+            <ProjectImage src="/React-Next-portfolio/images/projects/isoqualtechapp_01.png" alt="Spring-Angular-App" />
         </Container>
     </Transition>
 )

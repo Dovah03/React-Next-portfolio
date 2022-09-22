@@ -29,8 +29,8 @@ const project = () => (
                     <span>Java, Java Swing, MS Access, Java Wrapper</span>
                 </ListItem>
             </List>
-            <ProjectImage src="images/projects/crudapp_01.png" alt="Java Swing Crud App" />
-            <ProjectImage src="images/projects/crudapp_02.png" alt="Java Swing Crud App" />
+            <ProjectImage src="/React-Next-portfolio/images/projects/crudapp_01.png" alt="Java Swing Crud App" />
+            <ProjectImage src="/React-Next-portfolio/images/projects/crudapp_02.png" alt="Java Swing Crud App" />
         </Container>
     </Transition>
 )
