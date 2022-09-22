@@ -62,7 +62,7 @@ const ThreeDModel = () => {
             const controls = new OrbitControls(camera, renderer.domElement)
             controls.autoRotate = true
             controls.target = target
-            loadGLTFModel(scene, "images/Diglett.glb", {
+            loadGLTFModel(scene, "React-Next-portfolio/images/Diglett.glb", {
                 receiveShadow: false,
                 castShadow: false
             }).then(() => {
