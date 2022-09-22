@@ -6,4 +6,5 @@ module.exports = {
     },
     basePath: "/React-Next-portfolio",
     assetPrefix: "/React-Next-portfolio",
+    // remove from assets paths in all files that use /images folder for local dev and put it back when deploying 
 }
