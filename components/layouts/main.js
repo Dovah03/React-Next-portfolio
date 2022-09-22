@@ -22,7 +22,7 @@ const Main = ({ children, router}) => {
             <meta name="description" content="Aguendich's portfolio website" />
             <meta name="author" content="Mehdi Aguendich" />
             <link rel="apple-touch-icon" href="Logo.png" />
-            <link rel="shortcut icon" href="/favicon.ico?v=1" type="image/x-icon" />
+            <link rel="shortcut icon" href="images/favicon.ico?v=1" type="image/x-icon" />
             <meta property="og:site_name" content="Aguendich's Portfolio Website" />
             <meta property="og:type" content="website" />
             <title>Mehdi Aguendich - Homepage</title>
