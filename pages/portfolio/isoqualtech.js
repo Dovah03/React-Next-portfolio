@@ -21,12 +21,12 @@ const project = () => (
                     <Link href = "https://angular-crud-app-demo.herokuapp.com/">
                     https://angular-crud-app-demo.herokuapp.com/ <ExternalLinkIcon mx="2px" />
                     </Link>
+                    <span>(To login using Demo Accounts please check README.MD in either the Front-End or Back-End Github repository)</span>
                 </ListItem>
                 <ListItem>
                     <Meta>Front-End Source Code</Meta>
                     <Link href = "https://github.com/Dovah03/Angular-Crud-App">
                     https://github.com/Dovah03/Angular-Crud-App <ExternalLinkIcon mx="2px" /> <br/>
-                    <span>(To login using the Demo Accounts please check README.MD in either the Front-End or Back-End Github repository)</span>
                     </Link>
                 </ListItem>
                 <ListItem>
