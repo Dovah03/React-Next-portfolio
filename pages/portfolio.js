@@ -5,7 +5,7 @@ import thumbnailCrudapp from "../public/images/projects/crudapp.png"
 import thumbnailIsoqualtech from "../public/images/projects/isoqualtechapp.png";
 import thumbnailAI from "../public/images/projects/AI-assistant.png";
 import thumbnailPortfolio from "../public/images/projects/portfolio.png";
-import thumbnailDDS from "../public/images/projects/DDS.png";
+import thumbnailDDS from "../public/images/projects/DDS.jpg";
 import Transition from "../components/layouts/animatedLayout";
 
 const portfolio = () => {
