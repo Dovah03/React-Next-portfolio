@@ -25,7 +25,8 @@ const project = () => (
                 <ListItem>
                     <Meta>Front-End Source Code</Meta>
                     <Link href = "https://github.com/Dovah03/Angular-Crud-App">
-                    https://github.com/Dovah03/Angular-Crud-App <ExternalLinkIcon mx="2px" />
+                    https://github.com/Dovah03/Angular-Crud-App <ExternalLinkIcon mx="2px" /> <br/>
+                    <span>(To login using the Demo Accounts please check README.MD in either the Front-End or Back-End Github repository)</span>
                     </Link>
                 </ListItem>
                 <ListItem>
