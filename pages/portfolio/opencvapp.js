@@ -30,8 +30,8 @@ const project = () => (
                     <span>Python, Keras, Numpy, Panda, OpenCV, Tensorflow</span>
                 </ListItem>
             </List>
-            <ProjectImage src="/images/works/inkdrop_01.png" alt="Inkdrop" />
-            <ProjectImage src="/images/works/inkdrop_02.png" alt="Inkdrop" />
+            <ProjectImage src="/React-Next-portfolio/images/works/DDS_01.png" alt="Drowsiness Detection System" />
+            <ProjectImage src="/React-Next-portfolio/images/works/DDS_02.png" alt="Drowsiness Detection System" />
         </Container>
     </Transition>
 )

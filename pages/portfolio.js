@@ -5,6 +5,7 @@ import thumbnailCrudapp from "../public/images/projects/crudapp.png"
 import thumbnailIsoqualtech from "../public/images/projects/isoqualtechapp.png";
 import thumbnailAI from "../public/images/projects/AI-assistant.png";
 import thumbnailPortfolio from "../public/images/projects/portfolio.png";
+import thumbnailDDS from "../public/images/projects/DDS.png";
 import Transition from "../components/layouts/animatedLayout";
 
 const portfolio = () => {
@@ -32,7 +33,7 @@ const portfolio = () => {
 
                         <Section delay={0.8}>
 
-                        <WorkGridItem id="opencvapp" title="OpenCV D.D.S" thumbnail={thumbnailIsoqualtech}>
+                        <WorkGridItem id="opencvapp" title="OpenCV D.D.S" thumbnail={thumbnailDDS}>
                             Python, Computer vision powered AI App for car drivers drowsiness detection.
 
                         </WorkGridItem>    
