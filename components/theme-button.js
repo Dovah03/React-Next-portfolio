@@ -1,8 +1,6 @@
 import { AnimatePresence, motion, MotionConfig } from "framer-motion";
 import { IconButton, useColorMode, useColorModeValue } from "@chakra-ui/react";
 import { SunIcon, MoonIcon} from '@chakra-ui/icons'
-import lunaroc from "../public/images/lunaroc.png"
-import Solroc from "../components/layouts/solroc"
 
 
 const ThemeButton = () => {
