@@ -87,11 +87,11 @@ const Page = () => {
             📜 Get to know me
           </Heading>
           <Paragraph>
-            Hi There! I'm Mehdi Aguendich, a Full-Stack Developer, Flutter
+            Hi There! I'm Mehdi Aguendich, a Full-Stack Developer, React.JS
             Developer, Angular Developer, Computer Vision, Machine Learning enthousiast
             and open source contributor based in
             Morocco. I have been developing all sorts of applications for over
-            3.5 years now, and have recently created many Angular11 based
+            3.5 years now, and have recently created many Angular 12 based
             projects. Also I have worked in teams for various startups as either
             an Intern or a freelancer and helped them in launching their
             products/applications. and thus earned valuable learning experience.
@@ -122,28 +122,27 @@ const Page = () => {
             {' '}
             - I’m currently sleeping 😴 or working on my laptop 👨‍💻.
             <br /> <br/>
-            - I’m good in Web Development and Android Development With Flutter💪
-            and Angular❤️.
+            - I ❤️ Web Development using Angular 12, React.js and Next.js.
             <br /> <br/>
             - I also love developing backend infrastructures using the Java
-            Framework Spring for entreprises and Node.js for small to medium
+            Framework Spring for entreprises and Node.js (M.E.R.N) for small to medium
             projects. <br /> <br/>
             - Currently working on improving my Data Structures and Algorithm
-            skills👨‍💻.
+            skills👨‍💻 and getting bettter at Flutter.
             <br /> <br/>
-            - I love making Angular and THREE.js Projects👨‍💻 the most.
+            - I love making Next.js and THREE.js Projects👨‍💻 the most.
             <br /> <br/>
             - I have a huge interest in Machine Learning🤖 and OpenCV🌐 and so
             being good at Python is a must.
             <br /> <br/>
             - I’m open for collaboration 🧠 on ANY kind of project.
             <br /> <br/>
+            - Fun fact: My quick-wittedness😎 lies in my laziness 😴.
+            <br /> <br/>
             - Ask me about why I do think aliens 👽 exist.
             <br /> <br/>
             - After visiting my Portfolio Website👨‍💻 do suggest me ways on how to
             improve it.
-            <br /> <br/>
-            - Fun fact: My quick-wittedness😎 lies in my laziness 😴.
             <br /> <br/>
           </Paragraph>
           <Box align="center" my={4}>
