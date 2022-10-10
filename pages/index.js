@@ -128,7 +128,7 @@ const Page = () => {
             Framework Spring for entreprises and Node.js (M.E.R.N) for small to medium
             projects. <br /> <br/>
             - Currently working on improving my Data Structures and Algorithm
-            skills👨‍💻 and getting bettter at Flutter.
+            skills👨‍💻 and getting better at Flutter.
             <br /> <br/>
             - I love making Next.js and THREE.js Projects👨‍💻 the most.
             <br /> <br/>
@@ -181,7 +181,7 @@ const Page = () => {
             <strong> ISO QUAL TECH : Software Development Intern (E.S.P) </strong> -
             Working on various tasks to develop and modify the
           existing system by creating useful APIs and integrating MongoDB and MySQL
-          Databases using Angular11, Sring-boot and Spring-security.
+          Databases using Angular11, Spring-boot and Spring-security.
           </BioSection>
           <BioSection>
             <BioYear>2020</BioYear>
