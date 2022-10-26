@@ -170,7 +170,7 @@ const Page = () => {
           </BioSection>
           <BioSection>
             <BioYear>2022</BioYear>
-            <strong> ASATECHNO CONSULTING : Software Engineer (Intern) </strong> -
+            <strong> ASATECHNO CONSULTING : Software Engineer (Full-Time) </strong> -
             Work environment preparation, 
             Collaborative teamwork using a CI/CD tool, 
             Insurance sector software solutions evolution and maintenance, 
