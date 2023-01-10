@@ -138,8 +138,6 @@ const Page = () => {
             - I’m open for collaboration 🧠 on ANY kind of project.
             <br /> <br/>
             - Fun fact: My quick-wittedness😎 lies in my laziness 😴.
-           // <br /> <br/>
-           // - Ask me about why I do think aliens 👽 exist.
             <br /> <br/>
             - After visiting my Portfolio Website👨‍💻 do suggest me ways on how to
             improve it.
