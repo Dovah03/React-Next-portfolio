@@ -161,6 +161,11 @@ const Page = () => {
           🌮 Work experience
           </Heading>
           <BioSection>
+            <BioYear>2023</BioYear>
+            <strong> Urban Agency of Dakhla - Oued Eddahab : IT Engineer, (FULL-TIME) </strong> -
+            Urban Agency IT solutions developement and maintenance.
+          </BioSection>
+          <BioSection>
             <BioYear>2022</BioYear>
             <strong> INOVAR : Pega System Architect, (FULL-TIME REMOTE) </strong> -
             Software solution evolution and maintenance using PEGA System tools.
@@ -168,7 +173,7 @@ const Page = () => {
           </BioSection>
           <BioSection>
             <BioYear>2022</BioYear>
-            <strong> ASATECHNO CONSULTING : Software Engineer (Full-Time) </strong> -
+            <strong> ASATECHNO CONSULTING : Software Engineer (FULL-TIME) </strong> -
             Work environment preparation, 
             Collaborative teamwork using a CI/CD tool, 
             Insurance sector software solutions evolution and maintenance, 
