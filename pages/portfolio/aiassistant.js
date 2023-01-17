@@ -8,10 +8,10 @@ const project = () => (
     <Transition title="Isoqualtech">
         <Container>
             <Title>
-                Jarvis like AI Assistant <Badge>2022-</Badge>
+                Mavis AI Assistant <Badge>2022-</Badge>
             </Title>
             <Paragraph>
-                Jarvis like AI Assistant using Google TTS (Text-To-Speech), STT (Speech-To-Text) API, 
+                Mavis is a Jarvis like AI Assistant using Google TTS (Text-To-Speech), STT (Speech-To-Text) API, 
                 OpenWeatherMap API and Wikipedia API ... To perform basic tasks like retrieve the weather in a city, display informations from a wiki page, open a folder or 
                 a webpage by only using voice recognition.
 
