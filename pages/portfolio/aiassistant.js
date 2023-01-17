@@ -8,7 +8,7 @@ const project = () => (
     <Transition title="Isoqualtech">
         <Container>
             <Title>
-                Mavis-AI-Assistant <Badge>2022-</Badge>
+                Mavis (Artificial Intelligence Assistant) <Badge>2022-</Badge>
             </Title>
             <Paragraph>
                 Mavis is a Jarvis like AI Assistant using Google TTS (Text-To-Speech), STT (Speech-To-Text) API, 
