@@ -11,13 +11,17 @@ const project = () => (
                 Jarvis like AI Assistant <Badge>2022-</Badge>
             </Title>
             <Paragraph>
-                Jarvis like AI Assistant using Google TTS (Text-To-Speech) and STT (Speech-To-Text) API.
+                Jarvis like AI Assistant using Google TTS (Text-To-Speech), STT (Speech-To-Text) API, 
+                OpenWeatherMap API and Wikipedia API ... To perform basic tasks like retrieve the weather in a city, display informations from a wiki page, open a folder or 
+                a webpage by only using voice recognition.
 
             </Paragraph>
             <List ml={4} my={4}>
                 <ListItem>
-                    <Meta>Progress</Meta>
-                    <span>Work in Progress...</span>
+                    <Meta>Souce Code</Meta>
+                    <Link href = "https://https://github.com/Dovah03/Jarvis-Assisant-master">
+                    https://https://github.com/Dovah03/Jarvis-Assisant-master <ExternalLinkIcon mx="2px" />
+                    </Link> 
                 </ListItem>
                 <ListItem>
                     <Meta>Platform</Meta>
@@ -25,11 +29,11 @@ const project = () => (
                 </ListItem>
                 <ListItem>
                     <Meta>Stack</Meta>
-                    <span>Python, Google TTS, Google STT</span>
+                    <span>Python, Google TTS, Google STT, OWM, Wiki API, Pyjokes</span>
                 </ListItem>
             </List>
-            <ProjectImage src="/images/works/inkdrop_01.png" alt="AI-Assistant" />
-            <ProjectImage src="/images/works/inkdrop_02.png" alt="AI-Assistant" />
+            <ProjectImage src="/images/works/.png" alt="AI-Assistant" />
+            <ProjectImage src="/images/works/.png" alt="AI-Assistant" />
         </Container>
     </Transition>
 )
