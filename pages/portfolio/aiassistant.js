@@ -19,8 +19,8 @@ const project = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Souce Code</Meta>
-                    <Link href = "https://https://github.com/Dovah03/Mavis-Assistant">
-                    https://https://github.com/Dovah03/Mavis-Assistant <ExternalLinkIcon mx="2px" />
+                    <Link href = "https://github.com/Dovah03/Mavis-Assistant">
+                    https://github.com/Dovah03/Mavis-Assistant <ExternalLinkIcon mx="2px" />
                     </Link> 
                 </ListItem>
                 <ListItem>
