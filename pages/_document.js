@@ -8,7 +8,8 @@ export default class Document extends NextDocument {
         return(
             <Html lang="en">
                 <Head>
-                    <meta
+                <meta name="google-site-verification" content="EjTXcm6BPbchOljLdxPt7zXr3C-ePXee_D04WRyOfTU" />
+                    <meta    
                         name="Mehdi Aguendich's Portfolio"
                         content="Welcome to my portfolio website where I show case teh different project I have worked on throughout the years"
                     />
