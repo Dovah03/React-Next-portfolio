@@ -1,7 +1,7 @@
 import sitemap from 'sitemap';
 
 const sitemap = sm.createSitemap({
-  hostname: 'https://dovah03.github.io/React-Next-portfolio',
+  hostname: 'https://dovah03.github.io/React-Next-portfoli',
   cacheTime: 600000, //600 sec (10 min) cache purge period 
   urls: [
     { url: '/', changefreq: 'daily', priority: 1.0 },
