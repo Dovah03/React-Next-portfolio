@@ -1,10 +1,7 @@
 {
+    "extends": "next",
     "rules": {
-        "no-unused-vars": [
-          "error",
-          {
-            "varsIgnorePattern": "^[A-Z]"
-          }
-        ],
+      "react/no-unescaped-entities": "off",
+      "@next/next/no-page-custom-font": "off"
     }
-}
+  }
