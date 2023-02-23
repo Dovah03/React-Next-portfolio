@@ -120,19 +120,19 @@ const Page = () => {
           </Heading>
           <Paragraph>
             {' '}
-            - I’m currently sleeping 😴 or working on my laptop 👨‍💻.
+            - I’m currently working on my laptop 👨‍💻.
             <br /> <br/>
             - I ❤️ Web Development using Angular 12, React.js and Next.js.
             <br /> <br/>
-            - I also love developing backend infrastructures using the Java
+            - I also ❤️ developing backend infrastructures using the Java
             Framework Spring for entreprises and Node.js (M.E.R.N) for small to medium
             projects. <br /> <br/>
             - Currently working on improving my Data Structures and Algorithm
             skills👨‍💻 and getting better at Flutter.
             <br /> <br/>
-            - I love making Next.js and THREE.js Projects👨‍💻 the most.
+            - I love making Next.js Projects👨‍💻 using THREE.js the most.
             <br /> <br/>
-            - I have a huge interest in Machine Learning🤖 and OpenCV🌐 and so
+            - I have a huge interest in Machine Learning 🤖 and OpenCV 🌐 and so
             being good at Python is a must.
             <br /> <br/>
             - I’m open for collaboration 🧠 on ANY kind of project.
