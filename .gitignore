@@ -2,7 +2,8 @@
 
 /voxel-models
 
-
+#Nextjs folder
+/.next/
 
 # IDE - VSCode
 .vscode/*
@@ -13,7 +14,6 @@
 
 
 # dependencies
-/node_modules
 
 
 # misc
@@ -33,3 +33,4 @@ testem.log
 /dist
 /tmp
 /out-tsc
+node_modules
