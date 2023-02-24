@@ -128,7 +128,7 @@ const Page = () => {
             Framework Spring for entreprises and Node.js (M.E.R.N) for small to medium
             projects. <br /> <br/>
             - Currently working on improving my Data Structures and Algorithm
-            skills👨‍💻 and getting better at Flutter.
+            skills 👨‍💻 and getting better at Flutter.
             <br /> <br/>
             - I love making Next.js Projects👨‍💻 using THREE.js the most.
             <br /> <br/>
@@ -139,7 +139,7 @@ const Page = () => {
             <br /> <br/>
             - Fun fact: My quick-wittedness😎 lies in my laziness 😴.
             <br /> <br/>
-            - After visiting my Portfolio Website👨‍💻 do suggest me ways on how to
+            - After visiting my Portfolio Website 👨‍💻 do suggest me ways on how to
             improve it.
             <br /> <br/>
           </Paragraph>
