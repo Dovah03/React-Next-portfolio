@@ -1,6 +1,6 @@
 import sitemap from 'sitemap'
 
-const sitemap = sm.createSitemap({
+const sitemape = sitemap.createSitemap({
   hostname: 'https://dovah03.github.io/React-Next-portfoli',
   cacheTime: 600000, //600 sec (10 min) cache purge period
   urls: [
@@ -19,5 +19,5 @@ const sitemap = sm.createSitemap({
 })
 
 export function getSitemap() {
-  return sitemap.toString()
+  return sitemape.toString()
 }
