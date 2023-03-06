@@ -197,8 +197,7 @@ const Page = () => {
           <BioSection>
             <BioYear>2020</BioYear>
             <strong> Diana's : Full-Stack Developer (Freelance gig) </strong> -
-            Developed a Full-Fledged E-commerce website using Angular11 and
-            Node.js.
+            Developed a Full-Fledged E-Shop website using Angular11 and Node.js.
           </BioSection>
           <BioSection>
             <BioYear>2019</BioYear>
