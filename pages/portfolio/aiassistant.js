@@ -34,8 +34,14 @@ const project = () => (
           <span>Python, Google TTS, Google STT, OWM, Wiki API, Pyjokes</span>
         </ListItem>
       </List>
-      <ProjectImage src="/images/projects/Mavis.png" alt="AI-Assistant" />
-      <ProjectImage src="/images/works/Mavis_2.png" alt="AI-Assistant" />
+      <ProjectImage
+        src="/React-Next-portfolio/images/projects/Mavis.png"
+        alt="AI-Assistant"
+      />
+      <ProjectImage
+        src="/React-Next-portfolio/images/projects/Mavis_2.png"
+        alt="AI-Assistant"
+      />
     </Container>
   </Transition>
 )
