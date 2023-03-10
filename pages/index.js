@@ -81,7 +81,7 @@ const Page = () => {
         </Box>
         <Section delay={0.1}>
           <Heading as="h3" variant="section-title">
-            📜 Get to know me
+            📜 Get To Know Me
           </Heading>
           <Paragraph>
             Hi There! I'm Mehdi Aguendich, a Software Engineer, Full-Stack
@@ -105,7 +105,7 @@ const Page = () => {
                 whileTap={{ scale: 0.95 }}
               >
                 <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-                  My portfolio
+                  My Portfolio
                 </Button>
               </motion.div>
             </NextLink>
@@ -155,7 +155,7 @@ const Page = () => {
         </Section>
         <Section delay={0.2}>
           <Heading as="h3" variant="section-title">
-            🌮 Work experience
+            🌮 Work Experience
           </Heading>
           <BioSection>
             <BioYear>2023</BioYear>
@@ -224,12 +224,12 @@ const Page = () => {
           </Heading>
           <Paragraph>
             I enjoy reading, listening to music and doing camping trips with
-            friends among many other things{' '}
+            friends among many other things.{' '}
           </Paragraph>
         </Section>
         <Section delay={0.4}>
           <Heading as="h3" variant="section-title">
-            📝 Contact me
+            📝 Contact Me
           </Heading>
           <List>
             <ListItem>
